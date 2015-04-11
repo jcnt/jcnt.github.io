@@ -3,7 +3,7 @@ layout: post
 title:  "OH: You Should Have a Blog"
 date:   2014-11-08 21:00:00
 categories:
-- none
+- site
 tags: 
 - none
 ---
