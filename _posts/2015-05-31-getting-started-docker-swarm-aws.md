@@ -14,6 +14,8 @@ Amazon Web Services (AWS), that means building the cluster below works without a
 a credit card is required to set up an AWS account (this guide is not going to be detailed on how to use
 AWS in general).
 
+![Docker Swarm](/assets/docker-swarm.png)
+
 **1./ Creating instances, setting up the environment**
 
 Simply use the 'Launch instance' from the AWS Console. The free tier allows us to run t2.micro instances
