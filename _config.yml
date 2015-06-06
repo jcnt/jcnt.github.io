@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is not a blog, no stories or opinions here. Just notes about stuff 
   I fix or find working. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jcnt.github.io" # the base hostname & protocol for your site
+url: "http://b.yyaazz.hu" # the base hostname & protocol for your site
 twitter_username: jac1nt
 github_username:  jcnt
 exclude: [temppost.markdown]
