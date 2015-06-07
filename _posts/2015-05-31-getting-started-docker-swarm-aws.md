@@ -64,7 +64,7 @@ only required to run once.
 
 This command will return the unique cluster ID. This ID will be used to join nodes and manage the cluster. 
 
-    $ docker run -d swarm join --addr=IP:2375> token://<ID>
+    $ docker run -d swarm join --addr=IP:2375 token://<ID>
 
 This will basically start a container on the specific node we want to join into the cluster. This container will 
 run the swarm binary which will listen on the local IP on TCP port 2375 (again, don't use the instance public IP). 
