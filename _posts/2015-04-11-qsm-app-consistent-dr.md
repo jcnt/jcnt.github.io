@@ -8,7 +8,7 @@ tags:
 - DR
 - SnapMirror
 ---
-With my 9to5 job (oh wait...) I spend a lot of times with customer discussions. There are many of them 
+With my 9to5 job (oh wait...) I spend a lot of time with customer discussions. There are many of them 
 who are going to keep their older NetApp boxes when they purchase a new, for the obvious reason: still 
 good enough for Disaster Recovery!
 
