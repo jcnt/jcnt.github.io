@@ -14,7 +14,8 @@ I used to have one, it was more work related. Stuff mainly about storage and vir
 
 What I’m going to post here? Tech Stuff. Anything technical I find cool. Sometimes work related sometimes not. I’m trying to use this thing as a future reference for myself. I found a script the other day I wrote 10+ years ago to load a phone log into a database. It was quite cool, but I did not remember it at all. I forgot stuff quicker than I should. 
 
-Why sushi and burger? Because I love them. I travel a lot, if I eat alone mainly I end up with either sushi or burger. 
+Why Site B? As said, I had a blog once, so this is the second. Kinda Site B. I also deal a lot with Disaster Recovery and we
+use Site A and Site B a lot in whiteboard sessions :)
 
 PS.: If you happen to be in the situation where I’ve been for a long time, so you have no idea what OH means: it’s ‘overheard’. 
 
