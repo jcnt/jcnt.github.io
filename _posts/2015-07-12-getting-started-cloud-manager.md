@@ -18,7 +18,7 @@ public cloud services:
 ![Cloud Arch](/assets/2015-07-12-getting-started-cloud-manager/cloud-arch.png)
 
 Cloud Manager is pretty easy to setup, in fact, in this article I'm going to show the easiest option to consume
-it. Gererally speaking there are two ways to get it: 
+it. Gererally speaking there are two ways to get Cloud Manager: 
 
 - Download from the NetApp Support site
 - Deploy from Amazon Marketspace 
@@ -34,7 +34,7 @@ point it to "localhost".
 
 ![Cloud Arch](/assets/2015-07-12-getting-started-cloud-manager/setup1.png)
 
-After defining a couple of optional parameters like HTTP proxy and site/company details we need to create an 
+After defining a couple of optional parameters like HTTP proxy and Site/Company details we need to create an 
 admin user. This will be the method to authenticate to Cloud Manager later.
 
 ![Create Admin](/assets/2015-07-12-getting-started-cloud-manager/create-admin.png)
