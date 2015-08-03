@@ -12,6 +12,8 @@ I’m using my Mac with different screen sizes (internal and external monitor). 
 
 Obviously one option is to use a specific software for this task, e.g. “Stay”. However, it’s absolutely possible with the builtin tools and a few easy steps. 
 
+<!--more-->
+
 **1./ Get the app window size and location**
 
 In Apple Script this action is called ‘get bounds’. Basically you need to run the following short script to get the size and location: 
@@ -52,5 +54,4 @@ Apple Script is quite easy to read and write.
 
 Last one is to create a hotkey. If you created the service as ‘no input’ and in “any application” then you’ll be able to use the hotkey in anywhere the system. Setting up the hotkey is the same as for any apps, you’ll find your script under “services”.
 
-<!--more-->
 

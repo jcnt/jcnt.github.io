@@ -25,6 +25,8 @@ One of the things worth to look at if nova exists in the keystone service list:
     | 59739c5ea41f480687c1077cbd6ca171 | keystone | identity | Keystone Identity Service |
     +——————————————————————————————————+——————————+——————————+——————————————————————————-+
 
+<!--more-->
+
 If this is the case, nova-api needs to be reconfigured. Nova-api is responsible to register the nova service into keystone. Keystone auth token will be required for this step. Once it’s successful, nova should be listed in keystone services: 
 
     # keystone service-list
@@ -44,5 +46,4 @@ If this was the root cause, nova should now work properly:
     +————————+——————+——————+————————+——————-+————————————+
     +————————+——————+——————+————————+——————-+————————————+
     
-<!--more-->
 

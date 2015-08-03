@@ -16,6 +16,8 @@ AWS in general).
 
 ![Docker Swarm](/assets/docker-swarm.png)
 
+<!--more-->
+
 **1./ Creating instances, setting up the environment**
 
 Simply use the 'Launch instance' from the AWS Console. The free tier allows us to run t2.micro instances
@@ -139,5 +141,4 @@ that's why it lists only one running container.
 
 [docker-install]:   https://get.docker.io/ubuntu/
 
-<!--more-->
 

@@ -1,52 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://b.yyaazz.hu/2015/08/02/getting-started-cloud-ontap.html</loc>
+    <lastmod>2015-08-02T10:28:42+02:00</lastmod>
+  </url>
   <url>
     <loc>http://b.yyaazz.hu/2015/07/12/getting-started-cloud-manager.html</loc>
-    <lastmod>2015-07-12T11:23:42+02:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
+    <lastmod>2015-07-12T14:28:42+02:00</lastmod>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/2015/06/01/getting-started-docker-swarm-aws.html</loc>
     <lastmod>2015-06-01T00:48:42+02:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/2015/04/11/qsm-app-consistent-dr.html</loc>
     <lastmod>2015-04-11T14:18:42+02:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/2015/02/08/keep-app-window-sizes-with-multiple-monitors-on-mac.html</loc>
     <lastmod>2015-02-08T19:11:42+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/tech/2014/12/16/use-lun-copy-restore-lun-snapshot.html</loc>
     <lastmod>2014-12-16T14:05:00+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/tech/2014/11/30/Could-Not-Find-Any-Suitable-Endpoint.html</loc>
     <lastmod>2014-11-30T10:33:42+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/tech/2014/11/16/RabbitMQ-and-MySQL-OpenStack.html</loc>
     <lastmod>2014-11-16T01:48:42+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/site/2014/11/08/OH-you-should-have-a-blog.html</loc>
     <lastmod>2014-11-08T22:00:00+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/about/</loc>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/</loc>
-    <xhtml:link rel="alternate" hreflang="en"/>
   </url>
   <url>
     <loc>http://b.yyaazz.hu/google7c9783063977210b.html</loc>

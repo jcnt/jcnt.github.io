@@ -10,7 +10,7 @@ twitter_username: jac1nt
 github_username:  jcnt
 exclude: [temppost.markdown]
 timezone: Europe/Budapest
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

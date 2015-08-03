@@ -17,6 +17,8 @@ RabbitMQ is a message broker which is used by the OpenStack modules to communica
 
 It typically fails on the networking side. RabbitMQ is a service mainly running on the controller node and mainly used by the compute nodes, so networking is a must. 
 
+<!--more-->
+
 Ubuntu 14.04 LTS:
 
 After the package installation, RabbitMQ starts up on IPv6 only. As my environment is basic IPv4, it means no connections. Although rabbitmq-server man page says: 
@@ -43,5 +45,4 @@ Most of the cases the MySQL installation ends up with a configuration without UT
     init-connect = ‘SET NAMES utf8’
     character-set-server = utf8
 
-<!--more-->
 

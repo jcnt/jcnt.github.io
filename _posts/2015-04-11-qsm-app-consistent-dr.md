@@ -17,6 +17,8 @@ In these cases standard Volume Snapmirror is not really an option. Qtree SnapMir
 but it is challenging to replicate app consistent data. If there are Snapshots created with software suites
 like the SnapManagers, SnapCreator, or even a single script, those should be replicated in a consistent way. 
 
+<!--more-->
+
 **1./ First of all, creating Qtrees are NOT necessary!**
 
 Volumes are Qtrees at the end of the day. The only difference is the way the SnapMirror relationship is 
@@ -48,6 +50,4 @@ consistent Snapshot to initialize the partnership*
 
 
 
-
-<!--more-->
 

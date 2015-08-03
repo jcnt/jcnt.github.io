@@ -17,6 +17,8 @@ With Clustered ONTAP 8.3 there’s a new feature for block environments: LUN cop
 <br>
 This feature also can be used to restore an older version of the LUN, sitting inside an earlier Snapshot copy. I will show this functionality in an example below. 
 
+<!--more-->
+
 Let’s see first what kind of Snapshots I have, with limiting the output for a specific tenant and volume: 
 
     cdot::> snapshot list -vserver vserver02_hyperv -volume vserver02_LUNs 
@@ -70,5 +72,4 @@ Alternatively you can use the clone create command with the same parameters:
 Now, the difference between these methods is the first one really copies all the data from the first LUN to the second one, where cloning does not move any data. 
 
 
-<!--more-->
 
