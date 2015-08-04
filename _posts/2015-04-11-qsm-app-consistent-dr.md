@@ -45,7 +45,7 @@ Snapshots on the system. Great! SnapMirror allows to do a transfer using a speci
 
 This will update the DR with the selected app consistent Snapshot "snapname", thus the DR is app consistent. 
 
-*Note: "snapmirror update" also accepts the "-s snapname" option, so it is possible to use a specific app
+*Note: "snapmirror initialize" also accepts the "-s snapname" option, so it is possible to use a specific app
 consistent Snapshot to initialize the partnership*
 
 
