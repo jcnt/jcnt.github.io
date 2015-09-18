@@ -6,7 +6,7 @@ permalink: /about/
 
 About me? here's my twitter bio: 
 
-I do stuff. love burgers and sushi. ice cream addict. work for NetApp, tweet for myself. #NetAppATeam Community.
+when I grow up I wanna be an architect. #NetAppATeam. zooms make you lazy.
 
 You can follow me there: [@jac1nt] [twitter] or look at my about.me [page] [about]
 
