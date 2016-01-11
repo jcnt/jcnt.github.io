@@ -8,6 +8,10 @@ tags:
 - NetApp
 - ONTAP
 - Cloud
+- Docker
+- Swarm
+- persistent
+- storage
 ---
 Most of the information covered in this post has been published earlier here, so it's more like a collection of howto's. But first of all, why would you need persistent data for your containers? Well, containers are certainly different from VMs, but still, some requires to work on persistent data which is available for more than one instance on more than one node or host (physical or virtual).  The easiest way to achieve this would be a file based protocol, like NFS which can be used as a docker volume attached to the instance at startup. Amazon Web Services provides NFS service, however there are certain benefits to use Cloud ONTAP instead, most importantly the following: 
 
