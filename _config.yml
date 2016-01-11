@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://2nd-site.net" # the base hostname & protocol for your site
 twitter_username: jac1nt
-github_username:  jcnt
+# github_username:  jcnt
 exclude: [temppost.markdown]
 timezone: Europe/Budapest
 excerpt_separator: <!--more-->
